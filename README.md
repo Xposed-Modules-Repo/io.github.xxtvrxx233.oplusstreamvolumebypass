@@ -26,10 +26,10 @@ warranty of any kind. Use at your own risk.
 # License
 
 This project is licensed under the GNU General Public License v3.0 or later
-(GPL-3.0-or-later). See [LICENSE](LICENSE). You are free to use, study, modify, and redistribute it, provided that any derivative work is released under the same license and its source code remains available to anyone who receives it
+(GPL-3.0-or-later). See [LICENSE](https://github.com/xxtvrxx233/OplusStreamVolumeBypass/blob/main/LICENSE). You are free to use, study, modify, and redistribute it, provided that any derivative work is released under the same license and its source code remains available to anyone who receives it
 
 Third-party components remain under their own licenses; see
-[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The release APK embeds the
+[THIRD_PARTY_NOTICES.md](https://github.com/xxtvrxx233/OplusStreamVolumeBypass/blob/main/THIRD_PARTY_NOTICES.md). The release APK embeds the
 notices and license texts under `assets/licenses/`.
 
 This project is not affiliated with OPPO, OnePlus, realme, ColorOS, or LSPosed.
