@@ -32,4 +32,4 @@ Third-party components remain under their own licenses; see
 [THIRD_PARTY_NOTICES.md](https://github.com/xxtvrxx233/OplusStreamVolumeBypass/blob/main/THIRD_PARTY_NOTICES.md). The release APK embeds the
 notices and license texts under `assets/licenses/`.
 
-This project is not affiliated with OPPO, OnePlus, realme, ColorOS, or LSPosed.
+This project is not affiliated with OPPO, OnePlus, realme, ColorOS
